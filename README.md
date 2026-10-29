@@ -10,4 +10,4 @@ CLIENTE EN TRAVEL DIUNSA
  
 **Ruta:** Practica
 
-**Token de propiedad:** LEARN-CAP-XXXXXXXX
+**Token de propiedad:** LEARN-CAP-1F5E6DA7
